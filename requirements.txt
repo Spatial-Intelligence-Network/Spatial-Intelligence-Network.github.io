@@ -1,0 +1,6 @@
+geopandas
+shapely
+fastapi
+overturemaps>=0.1.0
+uvicorn
+
